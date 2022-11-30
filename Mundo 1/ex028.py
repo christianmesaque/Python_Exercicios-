@@ -11,7 +11,3 @@ if jogador == computador:
     print('Você ganhou! Eu pensei no número {}'.format(computador))
 else:
     print('Eu venci! Eu pensei no número {}'.format(computador))
-
-
-
-
